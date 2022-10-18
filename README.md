@@ -1,1 +1,2 @@
-This folder contains ALX prinf function building.
+Printf function creation.
+
